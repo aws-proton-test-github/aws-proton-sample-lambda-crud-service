@@ -1,6 +1,6 @@
 {
-  "deploymentId" : "6bb12364-fb62-4559-b709-a46b4cc565a5",
-  "isResourceDeleted" : false,
+  "deploymentId" : "<proton-resource-deleted>",
+  "isResourceDeleted" : true,
   "resourceMetadata" : {
     "arn" : "arn:aws:proton:us-east-1:175441209007:environment/notify-test",
     "templateArn" : "arn:aws:proton:us-east-1:175441209007:environment-template/e-test",
