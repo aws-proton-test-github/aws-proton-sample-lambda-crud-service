@@ -1,0 +1,4 @@
+template-file-path: t.yaml
+parameters: {}
+tags:
+  some: tag
