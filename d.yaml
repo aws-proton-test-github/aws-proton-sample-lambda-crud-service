@@ -1,0 +1,6 @@
+template-file-path: t.yaml
+parameters:
+  steven: cool
+  cool: steven
+  dummy: whatever
+tags: {}
